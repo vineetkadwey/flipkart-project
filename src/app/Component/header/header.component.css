@@ -1,0 +1,11 @@
+.form-control {
+    border-radius: 3px;
+    width: 600px;
+    margin-left: 20px;
+}
+
+
+a.login {
+    color: white;
+    margin-left: 21px;
+}
